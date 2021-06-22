@@ -4,12 +4,12 @@
 Special Thanks to Dr. Ashwani Assam (IIT,PATNA)
  
 # How to use:
-1. Set L,W which are the length and width of the rectangular domain.\
-2. Set the step size the dx.\
-3. Set the T1(the temperature for left right and bottom edges) and T2(the temperature for top edge).\
-4. Set temperature in line 34(Recomended : avg(T1,T2)).\
+1. Set L,W which are the length and width of the rectangular domain.
+2. Set the step size the dx.
+3. Set the T1(the temperature for left right and bottom edges) and T2(the temperature for top edge).
+4. Set temperature in line 34(Recomended : avg(T1,T2)).
 5. Set the density,specific heat and conductivity of the material used in analysis.
-6. Set a value of n(the step size for analytical temperature calculation (Recomended : n = min(L,W)/dx).\
+6. Set a value of n(the step size for analytical temperature calculation (Recomended : n = min(L,W)/dx).
 7. Hit the Run button
 
 # Interpreting the Results
